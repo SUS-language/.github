@@ -1,7 +1,10 @@
-## Hi there 👋
+## Welcome to SUS-language organization!
+
+SUS-language organization's (SUSLO next) main project is SUS programming language, written on Python.
+
+> Curently only @Zote-the-Mighty-4o2, owner is here...
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
